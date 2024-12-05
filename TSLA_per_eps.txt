@@ -1,3 +1,0 @@
-종목명: TSLA
-EPS: $3.65
-PE Ratio: 98.06
